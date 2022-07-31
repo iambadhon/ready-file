@@ -1,0 +1,80 @@
+/*=====================xxl device start=====================*/
+@media (min-width:1400px) {}
+
+/*=====================xxl device end=====================*/
+
+/*=====================xl device start=====================*/
+@media (min-width:1200px) and (max-width:1399px) {}
+
+/*=====================xl device end=====================*/
+
+/*=====================lg device start=====================*/
+@media (min-width:992px) and (max-width:1199px) {}
+
+/*=====================lg device end=====================*/
+
+/*=====================md device start=====================*/
+@media (min-width:768px) and (max-width:991px) {
+
+    /*==nav section start==*/
+    .main_nav .menu {
+        background: var(--sixteenth-color);
+    }
+
+    .main_nav .menu ul {
+        text-align: center;
+        padding: 5px 0;
+    }
+
+    .main_nav .menu ul li {
+        margin: 2px 0;
+    }
+
+    /*==nav section end==*/
+}
+
+/*=====================md device end=====================*/
+
+/*=====================sm device start=====================*/
+@media (min-width:576px) and (max-width:767px) {
+
+    /*==nav section start==*/
+    .main_nav .menu {
+        background: var(--sixteenth-color);
+    }
+
+    .main_nav .menu ul {
+        text-align: center;
+        padding: 5px 0;
+    }
+
+    .main_nav .menu ul li {
+        margin: 2px 0;
+    }
+
+    /*==nav section end==*/
+}
+
+/*=====================sm device end=====================*/
+
+/*=====================xs device start=====================*/
+@media (max-width:575px) {
+
+    /*==nav section start==*/
+    .main_nav .menu {
+        background: var(--sixteenth-color);
+    }
+
+    .main_nav .menu ul {
+        text-align: center;
+        padding: 5px 0;
+    }
+
+    .main_nav .menu ul li {
+        margin: 2px 0;
+    }
+
+    /*==nav section end==*/
+}
+
+/*=====================xs device end=====================*/
